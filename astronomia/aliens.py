@@ -1,1 +1,1 @@
-aliens = "modificacion 1"
+aliens = ["modificacion 1", "modificacion 2"]
